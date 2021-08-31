@@ -2,7 +2,7 @@
     "name": "com.tymski.duplicate-asset-detector",
     "displayName": "Duplicate Asset Detector",
     "description": "Unity tool that detects duplicate assets in your project, for example multiple textures with different names or in different folder.",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "unity": "2017.1",
     "repository": {
         "type": "git",
